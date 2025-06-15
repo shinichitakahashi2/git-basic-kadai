@@ -1,2 +1,6 @@
-0e8d5ea (HEAD -> main) 日本語訳を追記
+shinichi@Mac-Studio git_challenge % git log --oneline
+f44ed26 (HEAD -> main) 日本語を追記
+f69213c hellow_world2.txtを追加
+0e8d5ea 日本語訳を追記
 a0c6b28 コミット
+shinichi@Mac-Studio
